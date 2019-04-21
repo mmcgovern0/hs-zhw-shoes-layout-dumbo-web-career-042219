@@ -33,3 +33,8 @@
   content: ".";
   display: block;
 }
+
+.col-1 { width: 66%; }
+
+.col-2 { width: 32%; }
+
