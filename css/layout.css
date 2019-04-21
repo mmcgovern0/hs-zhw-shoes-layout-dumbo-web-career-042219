@@ -35,6 +35,7 @@
   clear: both;
   visibility: hidden;
   height: 0;
+  line-height: 0;
 }
 
 .col-1 { width: 66%; }
