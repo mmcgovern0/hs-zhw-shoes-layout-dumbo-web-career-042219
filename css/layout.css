@@ -34,7 +34,7 @@
   display: block;
   clear: both;
   visibility: hidden;
-  
+  height: 0;
 }
 
 .col-1 { width: 66%; }
